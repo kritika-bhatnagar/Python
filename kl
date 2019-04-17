@@ -1,0 +1,4 @@
+Print("Welcome")
+a=int(input("Enter your number))
+b=a*3
+print(b)
